@@ -29,7 +29,7 @@ class: center, middle
 
 ---
 
-## 自制小游戏
+## 第二部分
 
 
 #####1. This is a little game created by myself and one of my classmates when I was at grade 8
@@ -41,7 +41,7 @@ class: center, middle
 
 ---
 
-## 插图
+## 第三部分
 
 ** Invisible Adventure **
 
